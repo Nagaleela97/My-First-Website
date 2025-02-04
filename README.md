@@ -1,2 +1,1 @@
-# My-First-Website
-Creating my first website
+Developing my first simple website.
